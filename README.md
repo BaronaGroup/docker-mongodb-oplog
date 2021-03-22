@@ -2,9 +2,7 @@
 
 Simple mongodb image with single-node replicaset enabled.
 
-### This image is unsecured, binds to all open interfaces and does not includes any authentication process. It it strictly meant for developpement, DO NOT use for production.  
-
-It uses [mvertes/docker-alpine-mongo](https://github.com/mvertes/docker-alpine-mongo) as base image.
+### This image is unsecured, binds to all open interfaces and does not includes any authentication process. It it strictly meant for developement, DO NOT use for production.  
 
 ReplicaSet name: `rs0`.
 
